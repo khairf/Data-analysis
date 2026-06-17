@@ -1,5 +1,4 @@
-# Data-analysis
-# End-to-End Customer Shopping Behavior Analytics
+# Walmart Customer Shopping Behavior Analytics
 
 An advanced, corporate-level data analytics project that spans the entire data lifecycle—from initial business problem definition and data manipulation to advanced database querying, interactive dashboarding, formal documentation, and stakeholder presentation.
 
